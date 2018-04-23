@@ -1,2 +1,2 @@
 # LeetCode
-Record ideas and code to do Leetcode Problems
+Record ideas and code to do Leetcode Problems.
